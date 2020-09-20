@@ -16,7 +16,7 @@ eof;
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PHP</title>
+  <title>Practice</title>
   <meta charset="utf-8">
 </head>
 <body>
